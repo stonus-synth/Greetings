@@ -1,7 +1,7 @@
 # Greetings
 greeting Message
 
-Hello this is a greeting from "s.tonus", synth maker from Bangkok, Thailand.
+Hello this is a greeting from "s.tonus","สทฺโทนัส", synth maker from Bangkok, Thailand.
 This marks a journey into the creation audio generators both digital and analog of this name.
 
 In this Github profile you will find resources, schematics, source code related to this particular project.
